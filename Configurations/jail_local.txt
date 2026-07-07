@@ -1,0 +1,16 @@
+# jail.local configuration 
+_path = /etc/fail2ban/jail.local_
+  
+```xml
+enabled = true
+port = ssh
+filter = sshd
+logpath = /var/log/auth.log
+backend = %(sshd_backend)s
+maxretry = 5
+findtime = 60
+bantime = 3600
+
+
+  ---
+  
