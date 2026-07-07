@@ -1,7 +1,9 @@
 # SOC_Fail2Ban-Deployment
 Configured and deployed Fail2Ban to automatically block SSH brute-force attacks by banning malicious IP Addresses
 
-_The baseline setup for this project can be found in [https://github.com/Edima2004/SOC_Lab-Setup]_
+_The baseline setup for this project can be found in [https://github.com/Edima2004/SOC_Lab-Setup]_  
+
+
 _Also, the step by step processes carried out during the installation, configuration and testing can be found in this drive : [https://drive.google.com/drive/folders/1Cge7G7pnS5ZYVw3sGajaFjOLXoRxdOHq]_
 
 # Virtual Machines required
