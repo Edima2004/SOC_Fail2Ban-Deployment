@@ -1,4 +1,4 @@
-<img width="1920" height="1102" alt="Screenshot_2026-06-02_23_57_15" src="https://github.com/user-attachments/assets/fdde9de8-1f79-4891-b4bc-7a5cd55ec48f" /># SOC_Fail2Ban-Deployment
+# SOC_Fail2Ban-Deployment
 Configured and deployed Fail2Ban to automatically block SSH brute-force attacks by banning malicious IP Addresses
 
 _The baseline setup for this project can be found in [https://github.com/Edima2004/SOC_Lab-Setup]_
@@ -30,7 +30,7 @@ With the initial status checked as shown below;
 Attention was shifted to the Attacker to test out the Fail2Ban configuration.
 The attack began by creating custom usernames and passwords lists as an attacker would do -to perform an SSH brute-force attack
 
-<img width="1920" height="1102" alt="Screenshot_2026-06-02_23_54_32" src="https://github.com/user-attachments/assets/cc9c8dda-3ad7-4dd1-8343-38e137695c22" />
+<img width="1920" height="1102" alt="Screenshot_2026-06-02_23_57_15" src="https://github.com/user-attachments/assets/fdde9de8-1f79-4891-b4bc-7a5cd55ec48f" />
 
 <img width="1920" height="1102" alt="Screenshot_2026-06-02_23_54_32" src="https://github.com/user-attachments/assets/731e88da-79ad-402f-90a8-2d1146483abc" />
 
